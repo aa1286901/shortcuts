@@ -367,3 +367,4 @@
             .catch(e => console.error(e));
     }
 })();
+completion(true);
